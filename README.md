@@ -1,4 +1,4 @@
-# EXP 6 : SPEECH RECOGNITION USING SCILAB
+[# EXP 6 : SPEECH RECOGNITION USING SCILAB
 
 ## AIM: 
 
@@ -17,3 +17,4 @@ PC installed with SCILAB.
 ## RESULT: 
 Thus the decimation process by a factor M and interpolation process by a factor L using 
 SCILAB was implemented. 
+](https://github.com/vbalavikram-hub/SPEECH-RECOGNITION-USING-SCILAB-MATLAB/tree/main)
